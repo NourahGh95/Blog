@@ -52,7 +52,7 @@ struct MainView: View {
                     
                     VStack{
                         HStack{
-                            Text("Latest Posts")
+                            Text("Latest Post")
                                 .font(.title)
                             Spacer()
                         }
